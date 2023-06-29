@@ -39,23 +39,27 @@ for $10,000 in cash prizes.
 ## Team Members
 Our current Team Members:
 
-### [Danielle More]()
+### [Danielle More](https://github.com/extremed1)
 Danielle, an intern in the Football Analytics department of the Washington Commanders, recently completed her MS in Sport and Recreation Studies with a Concentration in Applied Statistics from GMU. She also holds a BS in Sport Management with a minor in Sport Analytics from the same university. Eager to embrace new challenges and enhance her skills, Danielle is excited about the opportunity to work with the Washington Commanders and expand her knowledge in the field of football analytics.
 
-### [Dominique Barnes]()
+### [Dominique Barnes](https://github.com/dbarnes16)
 Dominique Barnes, talented and ambitious individual currently pursuing a Ph.D. in Biomedical Engineering and a Master's in Data Science at Brown University. With a solid foundation in Mechanical Engineering from the University of Florida, Dominique's passion for interdisciplinary research and data-driven solutions drives their academic pursuits.
 
-### [Jennifer Genova]()
+### [Jennifer Genova](https://github.com/jgenova3)
 Currently a high school math teacher on Long Island in NY, they hold a BS in Math and an MA in Math Education from Stony Brook University ('08). With over 10 years of experience, they have taught AP statistics and consider it their favorite course to teach. Their passion for teaching and love for sports, particularly baseball, have led them to embrace this new challenge. Excited about transitioning out of the classroom, they are eager to contribute their expertise. However, if circumstances lead them to continue teaching, they express a genuine desire to guide future students, especially females, who share a passion for math and sports, and help them find their path.
 
-### [Zuri Hunter]()
-Zuri Huntera graduate of the esteemed Howard University with a major in Computer Information Systems, is currently employed at Black Cape, a small government contracting firm specializing in collaborations with key government entities. With a burgeoning passion for sports analytics, Crystal aspires to transition into the sports analytics industry. Eager to embark on this new journey, she looks forward to connecting with numerous remarkable individuals and exploring exciting opportunities in the field.
+### [Zuri Hunter](https://github.com/thestrugglingblack)
+Zuri Huntera graduate of the esteemed Howard University with a major in Computer Information Systems, is currently employed at Black Cape, a small government contracting firm specializing in collaborations with key government entities. With a burgeoning passion for sports analytics, Zuri aspires to transition into the sports analytics industry. Eager to embark on this new journey, she looks forward to connecting with numerous remarkable individuals and exploring exciting opportunities in the field.
 
 ## Codebases
-_Coming Soon!_
-
+- [ui](https://github.com/SportsSciSirens/ui) 
+- [service](https://github.com/SportsSciSirens/service)
+- [nba-shot-model-danielle-moore](https://github.com/SportsSciSirens/nba-shot-model-danielle-moore)
+- [wisd-data-2023](https://github.com/SportsSciSirens/wisd-data-2023)
+  
 ## Tools
 - [Slack](https://app.slack.com/client/T053BLJGH98/C053Q9ETY6M)
+- Google Docs
 
 ## Getting Started
 Follow instructions within the [wisd-data-2023](https://github.com/SportsSciSirens/wisd-data-2023) repository.
